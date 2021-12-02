@@ -63,5 +63,5 @@ Among them, ruby-oci8 installation is a little troublesome and needs to be confi
 	      (SERVICE_NAME = service_name)
 	    )
 	  )
-	``
+```
 4. Next, start the project normally
