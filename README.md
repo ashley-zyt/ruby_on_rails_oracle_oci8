@@ -34,7 +34,7 @@ Among them, ruby-oci8 installation is a little troublesome and needs to be confi
  2.3 Installruby-oci8
      ```
     sudo env LD_LIBRARY_PATH=/opt/oracle/instantclient-basiclite-linux.x64-12.2.0.1.0/instantclient_12_2 /usr/bin/gem install ruby-oci8
-     ```
+    ```
 3 config/datebase.yml
 	```
 	development:
