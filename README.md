@@ -5,11 +5,11 @@ ruby on rails oracle配置 oracle_enhanced，ruby-oci8安装 ，ORA-12154:TNS
 ruby on rails oracle配置 oracle_enhanced，ruby-oci8安装 ，ORA-12154:TNS
 
 1 Add corresponding gem
-``
+```
 gem 'activerecord-oracle_enhanced-adapter', '~> 5.2', '>= 5.2.8'
 gem 'ruby-oci8'
 gem 'ruby-plsql', '~> 0.6.0'
-``
+```
 activerecord-oracle_The enhanced adapter should be consistent with the rails version
 Among them, ruby-oci8 installation is a little troublesome and needs to be configured.You need to download some Oracle installation packages before configuring them
 
